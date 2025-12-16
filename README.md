@@ -12,7 +12,6 @@ The code works on the display procedure using cmd command >netsh wlan show profi
 For this project you will need USB key and install USB AUTORUN software from my repository.
 
 Procedure>:
-
 >Connect USB to PC
 >Install AUTORUN software
 >Put WfFiFix.bat and run.vbs files on USB
